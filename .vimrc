@@ -20,7 +20,7 @@ syntax on
 :au FocusLost * :wa
 
 " vundle
-set rtp+=~/.vim/bundle/vundle
+set rtp+=~/.vim/vundle
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
@@ -29,6 +29,7 @@ Bundle 'thoughtbot/vim-rspec'
 Bundle 'mattn/webapi-vim'
 Bundle 'mattn/gist-vim'
 Bundle 'kien/ctrlp.vim'
+Bundle 'kchmck/vim-coffee-script'
 
 set backspace=indent,eol,start
 set ruler

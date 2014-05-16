@@ -1,6 +1,5 @@
 " pathogen.vim - path option manipulation
-" Maintainer:   Tim Pope <http://tpo.pe/>
-" Version:      2.2
+" Maintainer:   Tim Pope <http://tpo.pe/> " Version:      2.2
 
 " Install in ~/.vim/autoload (or ~\vimfiles\autoload).
 "
